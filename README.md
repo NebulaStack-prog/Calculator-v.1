@@ -2,15 +2,15 @@
 
 Basic calculator – first steps in Python, Phase I.
 
-## 🚀 Run
-- Download `build/tetris.exe` (Windows)  
-- Or run `src/tetris.py`
+## 💻 Run
+- Download [Calculator_v.1.exe](Calculator_v.1.exe) 
+- Or run [Calculator_v.1.py](Calculator_v.1.py)
 
-## 📖 Full documentation
-- [English document](README_EN.md)
-- [Russian document](README_RU.md)
+## 📄 Full documentation
+- [🇺🇲 English document](README_EN.md)
+- [🇷🇺 Russian document](README_RU.md)
 
-## 🖼️ Screenshots
+## 📷 Screenshots
 ![](screenshot1.png)
 
 © NebulaStack
