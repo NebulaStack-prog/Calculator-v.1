@@ -1,4 +1,4 @@
-# Calculator v.1 – NebulaStack
+# Calculator v.1
 
 Basic calculator – first steps in Python, Phase I.
 
@@ -7,12 +7,10 @@ Basic calculator – first steps in Python, Phase I.
 - Or run `src/tetris.py`
 
 ## 📖 Full documentation
-- [English](README_EN.md)
-- [Russian](README_RU.md)
+- [English document](README_EN.md)
+- [Russian document](README_RU.md)
 
 ## 🖼️ Screenshots
 ![](screenshot1.png)
-
----
 
 © NebulaStack
