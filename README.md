@@ -8,9 +8,9 @@ Basic calculator – first steps in Python, Phase I.
 - Or run [Calculator_v.1.py](Calculator_v.1.py)
 
 ## 📄 Full documentation:
-- [🇺🇲  English  document](README_EN.md)
-
-- [🇷🇺  Russian  document](README_RU.md)
+- 🇷🇺  Russian version [Document](README_RU.md)
+  
+- 🇺🇲  English version: [Document](README_EN.md)
 
 ## 📷 Screenshots:
 ![](screenshot1.png)
