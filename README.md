@@ -10,7 +10,6 @@ Basic calculator – first steps in Python, Phase I.
 ## 📄 Full documentation
 - [🇺🇲  English  document](README_EN.md)
 
-- 
 - [🇷🇺  Russian  document](README_RU.md)
 
 ## 📷 Screenshots
