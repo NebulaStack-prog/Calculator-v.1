@@ -1,24 +1,24 @@
-**<<Part 1. Main Document.>>**
+## **Part 1. Main Document.**
 
-**1. Title and Basic Information.**
+### **1. Title and Basic Information.**
 
-• Name: Calculator v.1
+• **Name:** Calculator v.1
 
-• Purpose: Project No. 1. Product.
+• **Purpose:** Project No. 1. Product.
 
-• Project Phase: Phase I.
+• **Project Phase:** Phase I.
 
-• Technology Stack: Python
+• **Technology Stack:** Python
 
-• Project Status: The first version is fully completed.
+• **Project Status:** The first version is fully completed.
 
-**2. Brief Project Description.**
+### **2. Brief Project Description.**
 
 • The Calculator v.1 project is a multifunctional desktop application in Python with a graphical interface, designed to perform a wide range of mathematical operations.
 
 • The program combines the functions of a basic, engineering, and scientific calculator, providing tools for arithmetic calculations, working with prime numbers, solving equations, trigonometric transformations, and other mathematical tasks in a convenient and modern interface with saved history.
 
-**3. Clear Project Goals.**
+### **3. Clear Project Goals.**
 
 • Demonstrate NS work on projects.
 
@@ -26,9 +26,9 @@
 
 • Expand the NS ecosystem in the project domain.
 
-**4. Project Components (Functions).**
+### **4. Project Components (Functions).**
 
-• What is already implemented:
+• **What is already implemented:**
 
 **4.1** Addition
 (a + b)
@@ -85,7 +85,7 @@
 **4.18** Absolute Value, Integer Part, Fractional Part of a Number
 (|a|, [a], {a})
 
-• What may be added in the future:
+• **What may be added in the future:**
 
 **4.19** Graph Plotting
 
@@ -99,7 +99,7 @@
 
 **4.24** Derivatives and Integrals (Fundamentals of Mathematical Analysis)
 
-**5. User Guide.**
+### **5. User Guide.**
 
 • Before using the application, it is important to understand how it works. First, you should familiarize yourself with the functions located in the left panel of the screen.
 
@@ -111,9 +111,9 @@
 
 • All calculations are saved in the history, which is available in the top right corner. It can be copied or cleared.
 
-**<<Part 2. Technical Document.>>**
+## **Part 2. Technical Document.**
 
-**1. Development Goals.**
+### **1. Development Goals.**
 
 • Achieve a clear interface and convenient mechanics.
 
@@ -121,23 +121,23 @@
 
 • Provide a reusable code template.
 
-**2. Technologies Used.**
+### **2. Technologies Used.**
 
-• Programming Language: Python.
+• **Programming Language:** Python.
 
-• Libraries: tkinter, math, json, os, typing.
+• **Libraries:** tkinter, math, json, os, typing.
 
-**3. Project Architecture.**
+### **3. Project Architecture.**
 
-• The project uses the Model-View-Controller (MVC) approach within a single main class Calculator.
+• The project uses the **Model-View-Controller (MVC)** approach within a single main class Calculator.
 
-• Model – these are mathematical functions such as addition, GCD calculation, equation solving. They are implemented as class methods.
+• **Model** – these are mathematical functions such as addition, GCD calculation, equation solving. They are implemented as class methods.
 
-• View – this is the entire graphical interface: buttons, input fields, panels created using tkinter.
+• **View** – this is the entire graphical interface: buttons, input fields, panels created using tkinter.
 
-• Controller – this is the logic that connects the interface and computations. It processes button clicks, data input, and result display.
+• **Controller** – this is the logic that connects the interface and computations. It processes button clicks, data input, and result display.
 
-**4. Project Structure.**
+### **4. Project Structure.**
 
 • The project consists of one main file: calculator.py.
 
@@ -145,7 +145,7 @@
 
 • Only the standard Python library is required to run it; no additional installation is needed.
 
-**5. Key System Components.**
+### **5. Key System Components.**
 
 • Main class Calculator – controls the entire application.
 
@@ -159,7 +159,7 @@
 
 • Mathematical engine – more than 20 methods performing all operations from addition to solving quadratic equations.
 
-**6. User Interface Implementation.**
+### **6. User Interface Implementation.**
 
 • The interface is built using the tkinter library.
 
@@ -177,7 +177,7 @@
 
 • There are hover effects on buttons and support for hotkeys.
 
-**7. Development Process.**
+### **7. Development Process.**
 
 • First, a basic window framework was created using tkinter.
 
@@ -191,7 +191,7 @@
 
 • The entire process was accompanied by testing and bug fixing.
 
-**8. Main Challenges and Solutions.**
+### **8. Main Challenges and Solutions.**
 
 • **(1)** Challenge: how to create different numbers of input fields for different operations.
 
@@ -209,7 +209,7 @@ Solution: history is saved to a JSON file after each calculation and loaded at s
 
 Solution: all calculations are wrapped in a try-except block that catches errors and displays clear messages.
 
-**9. Current Project Limitations.**
+### **9. Current Project Limitations.**
 
 • All code is contained in a single file and one class, which may complicate further scaling.
 
@@ -223,7 +223,7 @@ Solution: all calculations are wrapped in a try-except block that catches errors
 
 • The interface is only in Russian; switching to other languages is not supported.
 
-**10. Possible Improvements and Development Plans.**
+### **10. Possible Improvements and Development Plans.**
 
 • Split the code into multiple modules for easier maintenance.
 
