@@ -13,6 +13,7 @@ Basic calculator – first steps in Python, Phase I.
 - 🇺🇲  English version: [Documentation](Calculator_v.1_EN.md)
 
 ## 📷 Screenshots:
-![](screenshot1.png)
+![](Calc_v.1_1.jpg)
+![](Calc_v.1_2.jpg)
 
 © NebulaStack
