@@ -5,6 +5,9 @@ Basic calculator – first steps in Python, Phase I.
 ## 💻 Project Run
 - Open with Python: [Calculator_v.1.py](Calculator_v.1.py)
 
+## 💾 Executable File
+- Download: [Calculator_v.1.exe](...)
+
 ## 📄 Full Documentation
 - 🇷🇺  Russian version: [Documentation](Calculator_v.1_RU.md)
   
