@@ -13,7 +13,7 @@ Basic calculator – first steps in Python, Phase I.
 - 🇷🇺  Russian version: [Documentation](Calculator_v.1_RU.md)
   
 - 🇺🇲  English version: [Documentation](Calculator_v.1_EN.md)
-
+---
 ### 📷 Screenshots
 ![](Calc_v.1_1.jpg)
 ![](Calc_v.1_2.jpg)
