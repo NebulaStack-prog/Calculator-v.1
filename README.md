@@ -15,6 +15,4 @@ Basic calculator – first steps in Python, Phase I.
 ![](Calc_v.1_1.jpg)
 ![](Calc_v.1_2.jpg)
 
----
-
 © NebulaStack
