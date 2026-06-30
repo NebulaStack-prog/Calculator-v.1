@@ -1,6 +1,6 @@
 # Calculator v.1
 
-<img src="https://github.com/NebulaStack-prog/Calculator-v.1/raw/main/IMG_20260701_003212_702.jpg" width="200" height="240">
+<img src="https://github.com/NebulaStack-prog/Calculator-v.1/raw/main/IMG_20260701_003212_702.jpg" width="200" height="230">
 
 Basic calculator – first steps in Python, Phase I.
 
