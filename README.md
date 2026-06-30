@@ -1,5 +1,7 @@
 # Calculator v.1
 
+![](IMG_20260701_003212_702.jpg)
+
 Basic calculator – first steps in Python, Phase I.
 
 ## 💻 Project Run
