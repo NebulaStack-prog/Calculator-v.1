@@ -1,6 +1,6 @@
 # Calculator v.1
 
-![](IMG_20260701_003212_702.jpg)
+<img src="https://github.com/NebulaStack-prog/Calculator-v.1/raw/main/IMG_20260701_003212_702.jpg" width="200" height="200">
 
 Basic calculator – first steps in Python, Phase I.
 
