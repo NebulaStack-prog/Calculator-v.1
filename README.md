@@ -2,7 +2,7 @@
 
 <img src="https://github.com/NebulaStack-prog/Calculator-v.1/raw/main/IMG_20260701_003212_702.jpg" width="200" height="230">
 
-Basic calculator – first steps in Python, Phase I.
+> Basic calculator – first steps in Python, Phase I.
 
 ## 💻 Project Run
 - Open with Python: [Calculator_v.1.py](Calculator_v.1.py)
