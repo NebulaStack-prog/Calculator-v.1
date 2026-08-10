@@ -18,4 +18,4 @@
 ![](Calc_v.1_1.jpg)
 ![](Calc_v.1_2.jpg)
 
-© NebulaStack
+© NESTIMS
