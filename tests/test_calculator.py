@@ -73,9 +73,7 @@ class CalculatorTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             self.calc.logarithm(1, 8)
 
-    @unittest.expectedFailure
     def test_tangent_undefined(self):
-        # Known legacy precedence bug in the tangent domain check.
         with self.assertRaises(ZeroDivisionError):
             self.calc.tan(270)
 
