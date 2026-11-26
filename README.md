@@ -1,5 +1,7 @@
 # Calculator v.1
 
+[![CI](https://github.com/NebulaStack-prog/Calculator-v.1/actions/workflows/ci.yml/badge.svg)](https://github.com/NebulaStack-prog/Calculator-v.1/actions/workflows/ci.yml)
+
 <img src="IMG_20260701_003212_702.jpg" width="200" alt="Calculator v.1 emblem">
 
 > The first step in the NESTIMS development journey.
