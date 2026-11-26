@@ -44,7 +44,10 @@ The application combines arithmetic, number theory, trigonometry and algebra in 
 
 ## Technology Stack
 
-Python, Tkinter, math and JSON.
+* Python
+* Tkinter
+* Math
+* JSON.
 
 ## Installation
 
