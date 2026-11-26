@@ -1,10 +1,9 @@
 # Calculator v.1
 
-[![CI](https://github.com/NebulaStack-prog/Calculator-v.1/actions/workflows/ci.yml/badge.svg)](https://github.com/NebulaStack-prog/Calculator-v.1/actions/workflows/ci.yml)
-
 <img src="IMG_20260701_003212_702.jpg" width="200" alt="Calculator v.1 emblem">
 
 > The first step in the NESTIMS development journey.
+> [![CI](https://github.com/NebulaStack-prog/Calculator-v.1/actions/workflows/ci.yml/badge.svg)](https://github.com/NebulaStack-prog/Calculator-v.1/actions/workflows/ci.yml)
 
 | Project Information | Details |
 |---|---|
@@ -24,13 +23,21 @@ The application combines arithmetic, number theory, trigonometry and algebra in 
 ## Features
 
 - Basic arithmetic operations
+
 - Powers, roots and logarithms
+
 - Factorials and double factorials
+
 - Prime number testing and factorization
+
 - GCD and LCM calculations
+
 - Trigonometric functions
+
 - Linear and quadratic equations
+
 - Degree and radian conversion
+
 - Persistent calculation history
 
 ## Technology Stack
@@ -49,25 +56,13 @@ python Calculator_v.1.py
 
 No third-party Python packages are required.
 
-## Screenshots
-
-![Calculator interface](Calc_v.1_1.jpg)
-
-![Calculation example](Calc_v.1_2.jpg)
-
 ## Documentation
 
-- [Russian documentation](Calculator_v.1_RU.md)
-- [English documentation](Calculator_v.1_EN.md)
-- [Original source code](Calculator_v.1.py)
-
-## Testing
-
-```bash
-python -m unittest discover -s tests -v
-```
-
-The tests cover mathematical methods without opening the GUI. A known legacy tangent-domain bug at angles such as 270 degrees is marked as an expected failure. GUI behavior is not covered.
+- Russian documentation: [more](Calculator_v.1_RU.md)
+  
+- English documentation: [more](Calculator_v.1_EN.md)
+  
+- Original source code: [more](Calculator_v.1.py)
 
 ## Project Status
 
@@ -75,12 +70,11 @@ This project is preserved as a historical release of NESTIMS Phase I. Its origin
 
 For an extended version with graph plotting, see [Calculator v.2](https://github.com/NebulaStack-prog/Calculator-v.2).
 
-## Explore NESTIMS
+## Screenshots
 
-[HELLO-USER](https://github.com/NebulaStack-prog/HELLO-USER) · [Infotech](https://github.com/NebulaStack-prog/NebulaStack-Infotech)
+![Calculator interface](Calc_v.1_1.jpg)
 
----
+![Calculation example](Calc_v.1_2.jpg)
 
-**NESTIMS · Est. 2025**
 
 © NESTIMS
