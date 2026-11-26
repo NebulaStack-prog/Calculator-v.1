@@ -683,7 +683,7 @@ class Calculator:
         return math.cos(math.radians(a))
 
     def tan(self, a):
-        if a - 90 % 180 == 0:
+        if (a - 90) % 180 == 0:
             raise ZeroDivisionError("Деление на ноль")
 
         if a % 180 == 0:
