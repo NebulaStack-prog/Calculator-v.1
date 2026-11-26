@@ -225,8 +225,6 @@ Solution: all calculations are wrapped in a try-except block that catches errors
 
 ### **10. Possible Improvements and Development Plans.**
 
-• Split the code into multiple modules for easier maintenance.
-
 • Add more advanced mathematical functions.
 
 • Implement appearance settings: themes, colors, fonts.
@@ -236,5 +234,3 @@ Solution: all calculations are wrapped in a try-except block that catches errors
 • Add support for multiple interface languages.
 
 • Use multithreading so that heavy calculations do not block the interface.
-
-• Create an executable .exe file to run the program without installing Python.
