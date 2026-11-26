@@ -2,6 +2,8 @@
 
 <img src="IMG_20260701_003212_702.jpg" width="200" alt="Calculator v.1 emblem">
 
+> [![CI](https://github.com/NebulaStack-prog/Calculator-v.1/actions/workflows/ci.yml/badge.svg)](https://github.com/NebulaStack-prog/Calculator-v.1/actions/workflows/ci.yml)
+
 > The first step in the NESTIMS development journey.
 
 
@@ -58,11 +60,11 @@ No third-party Python packages are required.
 
 ## Documentation
 
-- Russian documentation: [more](Calculator_v.1_RU.md)
+- Russian documentation: [more...](Calculator_v.1_RU.md)
   
-- English documentation: [more](Calculator_v.1_EN.md)
+- English documentation: [more...](Calculator_v.1_EN.md)
   
-- Original source code: [more](Calculator_v.1.py)
+- Original source code: [more...](Calculator_v.1.py)
 
 ## Project Status
 
