@@ -53,7 +53,7 @@ The application combines arithmetic, number theory, trigonometry and algebra in 
 
 - Download the Windows executable from [GitHub Releases](https://github.com/NebulaStack-prog/Calculator-v.1/releases/tag/v1.0).
 
-- Or run with Python: Original source code: [more...](Calculator_v.1.py)
+- Or run with Python original source code: [more...](Calculator_v.1.py)
 
 ## Documentation
 
