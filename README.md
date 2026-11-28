@@ -16,13 +16,13 @@
 
 > [![CI](https://github.com/NebulaStack-prog/Calculator-v.1/actions/workflows/ci.yml/badge.svg)](https://github.com/NebulaStack-prog/Calculator-v.1/actions/workflows/ci.yml)
 
-## Overview
+## ✨️ Overview
 
 Calculator v.1 is a multifunctional desktop calculator developed in Python. It represents the first official software project of the NESTIMS ecosystem.
 
 The application combines arithmetic, number theory, trigonometry and algebra in a graphical interface.
 
-## Features
+## 📋 Features
 
 - Basic arithmetic operations
 
@@ -42,32 +42,32 @@ The application combines arithmetic, number theory, trigonometry and algebra in 
 
 - Persistent calculation history
 
-## Technology Stack
+## 🛠 Technology Stack
 
 * Python
 * Tkinter
 * Math
 * JSON.
 
-## Installation
+## 💾 Installation
 
 - Download the Windows executable from [GitHub Releases](https://github.com/NebulaStack-prog/Calculator-v.1/releases/tag/v1.0).
 
 - Or run with Python original source code: [more...](Calculator_v.1.py)
 
-## Documentation
+## 🗂 Documentation
 
 - Russian documentation: [more...](Calculator_v.1_RU.md)
   
 - English documentation: [more...](Calculator_v.1_EN.md)
 
-## Project Status
+## 📄 Project Status
 
 This project is preserved as a historical release of NESTIMS Phase I. Its original implementation documents the early stages of the ecosystem's development.
 
 For an extended version with graph plotting, see [Calculator v.2](https://github.com/NebulaStack-prog/Calculator-v.2).
 
-## Screenshots
+## 📸 Screenshots
 
 ![Calculator interface](Calc_v.1_1.jpg)
 
